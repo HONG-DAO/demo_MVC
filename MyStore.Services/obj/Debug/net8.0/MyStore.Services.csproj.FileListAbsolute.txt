@@ -1,0 +1,17 @@
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Services.deps.json
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Services.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Services.pdb
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Business.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Repositories.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Repositories.pdb
+/home/nhatlinh/MVC/MyStore/MyStore.Services/bin/Debug/net8.0/MyStore.Business.pdb
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.csproj.AssemblyReference.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.AssemblyInfoInputs.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.AssemblyInfo.cs
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.csproj.CoreCompileInputs.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore..FB2A7DCF.Up2Date
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/refint/MyStore.Services.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/MyStore.Services.pdb
+/home/nhatlinh/MVC/MyStore/MyStore.Services/obj/Debug/net8.0/ref/MyStore.Services.dll

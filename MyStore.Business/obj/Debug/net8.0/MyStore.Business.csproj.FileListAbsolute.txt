@@ -1,0 +1,14 @@
+/home/nhatlinh/MVC/MyStore/MyStore.Business/bin/Debug/net8.0/MyStore.Business.deps.json
+/home/nhatlinh/MVC/MyStore/MyStore.Business/bin/Debug/net8.0/MyStore.Business.runtimeconfig.json
+/home/nhatlinh/MVC/MyStore/MyStore.Business/bin/Debug/net8.0/MyStore.Business.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Business/bin/Debug/net8.0/MyStore.Business.pdb
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.csproj.AssemblyReference.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.AssemblyInfoInputs.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.AssemblyInfo.cs
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.csproj.CoreCompileInputs.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/refint/MyStore.Business.dll
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.pdb
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/MyStore.Business.genruntimeconfig.cache
+/home/nhatlinh/MVC/MyStore/MyStore.Business/obj/Debug/net8.0/ref/MyStore.Business.dll
